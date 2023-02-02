@@ -1,0 +1,1 @@
+Testing staging the whole directory
